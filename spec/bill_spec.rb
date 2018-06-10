@@ -1,6 +1,6 @@
 require './lib/bill'
 
-describe Bill do
+describe 'Bill' do
 
   describe '#get_data' do
     it 'should respond to get_data with 2 argument' do
